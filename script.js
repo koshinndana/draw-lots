@@ -13,15 +13,25 @@ const githubAPI = {
     async getRecords() {
         try {
             const token = getGitHubToken();
-            if (!token) return null;
+            if (!token) {
+                console.log('未获取到 token');
+                return null;
+            }
 
+            console.log('开始获取记录...');
             const response = await fetch(`https://api.github.com/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.path}`, {
                 headers: {
                     'Authorization': `token ${token}`
                 }
             });
-            if (!response.ok) return null;
+            
+            if (!response.ok) {
+                console.log('获取记录失败:', response.status, response.statusText);
+                return null;
+            }
+            
             const data = await response.json();
+            console.log('成功获取记录');
             return {
                 content: JSON.parse(atob(data.content)),
                 sha: data.sha
@@ -35,8 +45,12 @@ const githubAPI = {
     async saveRecords(records, sha) {
         try {
             const token = getGitHubToken();
-            if (!token) return false;
+            if (!token) {
+                console.log('未获取到 token');
+                return false;
+            }
 
+            console.log('开始保存记录...');
             const response = await fetch(`https://api.github.com/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.path}`, {
                 method: 'PUT',
                 headers: {
@@ -49,7 +63,14 @@ const githubAPI = {
                     sha: sha
                 })
             });
-            return response.ok;
+            
+            if (!response.ok) {
+                console.log('保存记录失败:', response.status, response.statusText);
+                return false;
+            }
+            
+            console.log('成功保存记录');
+            return true;
         } catch (error) {
             console.error('保存记录失败:', error);
             return false;
