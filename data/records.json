@@ -71,7 +71,13 @@
       "group": "art",
       "member": "袁博",
       "operator": "11"
+    },
+    {
+      "time": "2025-02-19T09:59:30.654Z",
+      "group": "eng",
+      "member": "奕昂",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-02-19T09:59:27.370Z"
+  "lastReset": "2025-02-19T09:59:30.654Z"
 }
