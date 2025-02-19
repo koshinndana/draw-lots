@@ -66,6 +66,16 @@ button:hover {
     background-color: #d32f2f;
 }
 
+.reset-token-btn {
+    background-color: #ff9800;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.reset-token-btn:hover {
+    background-color: #f57c00;
+}
+
 .draw-info {
     color: #666;
     font-size: 0.9em;
