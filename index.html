@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!-- 抽签系统 - 实现随机抽取、记录统计、时间显示功能 -->
+<!-- 
+    更新记录:
+    - 添加时间记录功能
+    - 时间格式: YYYY-MM-DD HH:mm:ss
+    - 使用localStorage存储抽签记录
+-->
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>抽签系统</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>抽签系统</h1>
+            <div class="user-info">
+                <span id="current-user">未登录</span>
+                <button onclick="logout()" class="logout-btn">退出登录</button>
+            </div>
+        </div>
+        
+        <div class="group-section">
+            <h2>美术组</h2>
+            <div class="member-list">
+                成员：Yoyo、辣椒、袁博、文皓
+            </div>
+            <button onclick="draw('art')">抽取美术组</button>
+            <div id="art-result" class="result-area"></div>
+        </div>
+
+        <div class="group-section">
+            <h2>工程组</h2>
+            <div class="member-list">
+                成员：志勇、曾卫、王科、奕昂、Eric
+            </div>
+            <button onclick="draw('eng')">抽取工程组</button>
+            <div id="eng-result" class="result-area"></div>
+        </div>
+
+        <div class="group-section">
+            <h2>其他组</h2>
+            <div class="member-list">
+                成员：姗姗、鼠标、菀泠、玉洁
+            </div>
+            <button onclick="draw('others')">抽取其他组</button>
+            <div id="others-result" class="result-area"></div>
+        </div>
+
+        <div id="statistics" class="statistics-section"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
