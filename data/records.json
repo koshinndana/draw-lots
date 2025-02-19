@@ -1,23 +1,4 @@
 {
-  "records": [
-    {
-      "time": "2025-02-19T10:13:02.445Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "11"
-    },
-    {
-      "time": "2025-02-19T10:13:05.656Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "11"
-    },
-    {
-      "time": "2025-02-19T10:13:07.752Z",
-      "group": "others",
-      "member": "姗姗",
-      "operator": "11"
-    }
-  ],
-  "lastReset": "2025-02-19T10:13:07.752Z"
+  "records": [],
+  "lastReset": "2025-02-19T10:13:19.172Z"
 }
