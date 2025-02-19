@@ -93,6 +93,32 @@ function resetToken() {
     location.reload();
 }
 
+// 在这里添加重置记录函数
+async function resetRecords() {
+    if (!confirm('确定要清空所有记录吗？')) {
+        return;
+    }
+
+    const recordsData = await githubAPI.getRecords();
+    if (!recordsData) {
+        alert('获取记录失败');
+        return;
+    }
+
+    const newData = {
+        records: [],
+        lastReset: new Date().toISOString()
+    };
+
+    const success = await githubAPI.saveRecords(newData, recordsData.sha);
+    if (success) {
+        alert('记录已清空');
+        location.reload(); // 刷新页面
+    } else {
+        alert('清空记录失败');
+    }
+}
+
 // 用户登录检查函数
 function checkUser() {
     if (!currentUser) {
