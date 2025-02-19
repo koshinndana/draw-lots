@@ -147,17 +147,29 @@ async function draw(groupName) {
     const randomIndex = Math.floor(Math.random() * group.length);
     const selectedMember = group[randomIndex];
 
-    // 记录抽签结果
+     // 记录抽签结果
     const record = {
         time: now.toISOString(),
         group: groupName,
         member: selectedMember,
         operator: currentUser
     };
+
+    // 确保 data.records 是数组
+    if (!Array.isArray(data.records)) {
+        data.records = [];
+    }
+    
     data.records.push(record);
+    console.log('添加新记录：', record); // 添加调试日志
 
     // 保存记录
-    await githubAPI.saveRecords(data, sha);
+    const saveResult = await githubAPI.saveRecords(data, sha);
+    if (!saveResult) {
+        console.error('保存记录失败');
+        alert('保存记录失败，请稍后重试');
+        return;
+    }
 
     // 更新显示
     updateDisplay(groupName, selectedMember, data.records);
@@ -182,12 +194,28 @@ function updateDisplay(groupName, selectedMember, records) {
 
 // 更新统计信息
 function updateStatistics(records) {
+    console.log('正在更新统计，当前记录：', records); // 添加调试日志
+
+    // 初始化所有成员的统计数据为0
     const stats = {};
     for (const group in groups) {
         groups[group].forEach(member => {
-            stats[member] = records.filter(r => r.member === member).length;
+            stats[member] = 0;
         });
     }
+
+    // 统计本周的抽取次数
+    if (records && records.length > 0) {
+        const currentWeek = getWeekNumber(new Date());
+        records.forEach(record => {
+            // 检查记录是否属于本周
+            if (getWeekNumber(new Date(record.time)) === currentWeek) {
+                stats[record.member] = (stats[record.member] || 0) + 1;
+            }
+        });
+    }
+
+    console.log('统计结果：', stats); // 添加调试日志
 
     // 显示统计
     const statsDiv = document.getElementById('statistics');
@@ -196,13 +224,14 @@ function updateStatistics(records) {
         const groupName = group === 'art' ? '美术组' : group === 'eng' ? '工程组' : '其他组';
         html += `<li><strong>${groupName}：</strong>`;
         groups[group].forEach(member => {
-            html += `${member}(${stats[member] || 0}次) `;
+            html += `${member}(${stats[member]}次) `;
         });
         html += '</li>';
     }
     html += '</ul>';
     statsDiv.innerHTML = html;
 }
+
 
 // 获取周数的辅助函数
 function getWeekNumber(date) {
