@@ -23,7 +23,13 @@
       "group": "eng",
       "member": "志勇",
       "operator": "11"
+    },
+    {
+      "time": "2025-02-19T10:27:15.480Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-02-19T10:27:14.292Z"
+  "lastReset": "2025-02-19T10:27:15.480Z"
 }
