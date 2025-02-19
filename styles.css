@@ -76,6 +76,17 @@ button:hover {
     background-color: #f57c00;
 }
 
+/* 添加新按钮样式 */
+.reset-records-btn {
+    background-color: #ff5722;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.reset-records-btn:hover {
+    background-color: #f4511e;
+}
+
 .draw-info {
     color: #666;
     font-size: 0.9em;
