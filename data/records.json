@@ -11,7 +11,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "11"
+    },
+    {
+      "time": "2025-02-19T10:27:13.118Z",
+      "group": "eng",
+      "member": "曾卫",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-02-19T10:27:09.165Z"
+  "lastReset": "2025-02-19T10:27:13.118Z"
 }
