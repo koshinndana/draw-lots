@@ -13,40 +13,23 @@ const githubAPI = {
     async getRecords() {
         try {
             const token = getGitHubToken();
-            if (!token) {
-                console.log('未获取到 token');
-                return null;
-            }
+            if (!token) return null;
 
-            console.log('开始获取记录...');
             const response = await fetch(`https://api.github.com/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.path}`, {
                 headers: {
                     'Authorization': `token ${token}`
                 }
             });
             
-            if (!response.ok) {
-                console.log('获取记录失败:', response.status, response.statusText);
-                const errorData = await response.json();
-                console.error('错误详情:', errorData);
-                return null;
-            }
+            if (!response.ok) return null;
             
             const data = await response.json();
-            console.log('成功获取记录:', data);
-            
-            try {
-                const decodedContent = atob(data.content);
-                const parsedContent = JSON.parse(decodedContent);
-                console.log('解析后的记录:', parsedContent);
-                return {
-                    content: parsedContent,
-                    sha: data.sha
-                };
-            } catch (parseError) {
-                console.error('解析记录内容失败:', parseError);
-                return null;
-            }
+            // 使用 decodeURIComponent 处理中文字符
+            const content = decodeURIComponent(escape(atob(data.content)));
+            return {
+                content: JSON.parse(content),
+                sha: data.sha
+            };
         } catch (error) {
             console.error('获取记录失败:', error);
             return null;
@@ -61,30 +44,9 @@ const githubAPI = {
                 return false;
             }
 
-            // 检查并格式化数据
-            if (!records.records) {
-                records = { records: [], lastReset: null, ...records };
-            }
-            console.log('准备保存的数据:', records);
-
-            // 确保数据可以被正确序列化
-            let content;
-            try {
-                const jsonString = JSON.stringify(records, null, 2);
-                content = btoa(jsonString);
-                console.log('序列化后的数据:', jsonString);
-            } catch (encodeError) {
-                console.error('数据序列化失败:', encodeError);
-                alert('数据格式错误，无法保存');
-                return false;
-            }
-
-            const requestBody = {
-                message: '更新抽签记录',
-                content: content,
-                sha: sha
-            };
-            console.log('发送的请求数据:', requestBody);
+            // 使用 encodeURIComponent 处理中文字符
+            const jsonString = JSON.stringify(records, null, 2);
+            const content = btoa(unescape(encodeURIComponent(jsonString)));
 
             const response = await fetch(`https://api.github.com/repos/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/contents/${GITHUB_CONFIG.path}`, {
                 method: 'PUT',
@@ -92,23 +54,23 @@ const githubAPI = {
                     'Authorization': `token ${token}`,
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify(requestBody)
+                body: JSON.stringify({
+                    message: '更新抽签记录',
+                    content: content,
+                    sha: sha
+                })
             });
 
             if (!response.ok) {
                 const errorData = await response.json();
-                console.error('保存失败，状态码:', response.status);
-                console.error('错误详情:', errorData);
-                alert(`保存失败: ${errorData.message}`);
+                console.error('保存失败：', errorData);
                 return false;
             }
 
-            const responseData = await response.json();
-            console.log('保存成功，响应:', responseData);
+            console.log('成功保存记录');
             return true;
         } catch (error) {
-            console.error('保存记录时发生错误:', error);
-            alert(`保存错误: ${error.message}`);
+            console.error('保存记录时发生错误：', error);
             return false;
         }
     }
