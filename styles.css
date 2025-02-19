@@ -24,6 +24,15 @@
     border-radius: 5px;
 }
 
+.member-list {
+    margin: 10px 0;
+    padding: 8px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #666;
+}
+
 .result-area {
     margin-top: 10px;
     padding: 10px;
@@ -67,11 +76,29 @@ button:hover {
     color: #4CAF50;
 }
 
-.member-list {
+.statistics-section {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.statistics-section h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.statistics-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.statistics-section li {
     margin: 10px 0;
-    padding: 8px;
-    background-color: #f5f5f5;
-    border-radius: 4px;
-    font-size: 0.9em;
-    color: #666;
-} 
+    line-height: 1.5;
+}
+
+.statistics-section strong {
+    color: #4CAF50;
+}
