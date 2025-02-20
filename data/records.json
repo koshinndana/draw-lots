@@ -83,7 +83,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "kyoko"
+    },
+    {
+      "time": "2025-02-20T04:09:15.314Z",
+      "group": "eng",
+      "member": "王科",
+      "operator": "kyoko"
     }
   ],
-  "lastReset": "2025-02-20T04:09:11.037Z"
+  "lastReset": "2025-02-20T04:09:15.314Z"
 }
