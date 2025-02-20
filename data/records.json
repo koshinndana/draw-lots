@@ -53,7 +53,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "shimin"
+    },
+    {
+      "time": "2025-02-20T01:41:45.131Z",
+      "group": "others",
+      "member": "姗姗",
+      "operator": "shimin"
     }
   ],
-  "lastReset": "2025-02-20T01:41:40.925Z"
+  "lastReset": "2025-02-20T01:41:45.131Z"
 }
