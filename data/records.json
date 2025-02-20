@@ -47,7 +47,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "shimin"
+    },
+    {
+      "time": "2025-02-20T01:41:40.925Z",
+      "group": "eng",
+      "member": "王科",
+      "operator": "shimin"
     }
   ],
-  "lastReset": "2025-02-20T01:41:38.821Z"
+  "lastReset": "2025-02-20T01:41:40.925Z"
 }
