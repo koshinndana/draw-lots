@@ -1,4 +1,11 @@
 {
-  "records": [],
-  "lastReset": "2025-02-20T10:17:22.155Z"
+  "records": [
+    {
+      "time": "2025-02-20T10:17:35.396Z",
+      "group": "art",
+      "member": "袁博",
+      "operator": "koshinn"
+    }
+  ],
+  "lastReset": "2025-02-20T10:17:35.396Z"
 }
