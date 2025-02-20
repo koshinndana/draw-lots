@@ -1,23 +1,4 @@
 {
-  "records": [
-    {
-      "time": "2025-02-20T10:18:08.681Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-02-20T10:18:15.204Z",
-      "group": "eng",
-      "member": "王科",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-02-20T10:18:16.692Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "koshinn"
-    }
-  ],
-  "lastReset": "2025-02-20T10:18:16.692Z"
+  "records": [],
+  "lastReset": "2025-02-20T10:18:23.515Z"
 }
