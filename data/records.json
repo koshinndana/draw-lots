@@ -29,7 +29,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-02-20T10:20:50.235Z",
+      "group": "others",
+      "member": "玉洁",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-02-20T10:20:47.462Z"
+  "lastReset": "2025-02-20T10:20:50.235Z"
 }
