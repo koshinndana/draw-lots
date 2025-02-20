@@ -89,7 +89,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "kyoko"
+    },
+    {
+      "time": "2025-02-20T04:09:19.703Z",
+      "group": "others",
+      "member": "姗姗",
+      "operator": "kyoko"
     }
   ],
-  "lastReset": "2025-02-20T04:09:15.314Z"
+  "lastReset": "2025-02-20T04:09:19.703Z"
 }
