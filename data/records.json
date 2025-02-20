@@ -1,29 +1,4 @@
 {
-  "records": [
-    {
-      "time": "2025-02-20T10:17:35.396Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-02-20T10:17:40.827Z",
-      "group": "eng",
-      "member": "王科",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-02-20T10:17:44.199Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-02-20T10:17:51.693Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "koshinn"
-    }
-  ],
-  "lastReset": "2025-02-20T10:17:51.693Z"
+  "records": [],
+  "lastReset": "2025-02-20T10:17:59.138Z"
 }
