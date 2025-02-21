@@ -5,7 +5,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-02-21T10:39:05.462Z",
+      "group": "eng",
+      "member": "曾卫",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-02-21T10:39:02.790Z"
+  "lastReset": "2025-02-21T10:39:05.462Z"
 }
