@@ -59,7 +59,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-02-21T10:38:22.318Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-02-21T10:38:18.102Z"
+  "lastReset": "2025-02-21T10:38:22.318Z"
 }
