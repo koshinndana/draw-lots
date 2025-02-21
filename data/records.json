@@ -1,17 +1,4 @@
 {
-  "records": [
-    {
-      "time": "2025-02-21T10:39:18.352Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "Kyoko"
-    },
-    {
-      "time": "2025-02-21T10:39:19.741Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "Kyoko"
-    }
-  ],
-  "lastReset": "2025-02-21T10:39:19.741Z"
+  "records": [],
+  "lastReset": "2025-02-21T10:39:23.248Z"
 }
