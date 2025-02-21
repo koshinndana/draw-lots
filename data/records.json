@@ -1,4 +1,11 @@
 {
-  "records": [],
-  "lastReset": "2025-02-21T10:38:56.858Z"
+  "records": [
+    {
+      "time": "2025-02-21T10:39:02.790Z",
+      "group": "art",
+      "member": "Yoyo",
+      "operator": "Kyoko"
+    }
+  ],
+  "lastReset": "2025-02-21T10:39:02.790Z"
 }
