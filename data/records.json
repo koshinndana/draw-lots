@@ -47,7 +47,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-02-21T10:38:14.456Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-02-21T10:38:11.139Z"
+  "lastReset": "2025-02-21T10:38:14.456Z"
 }
