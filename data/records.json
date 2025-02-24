@@ -59,7 +59,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "kyoko"
+    },
+    {
+      "time": "2025-02-24T05:54:55.592Z",
+      "group": "art",
+      "member": "袁博",
+      "operator": "kyoko"
     }
   ],
-  "lastReset": "2025-02-24T05:54:53.640Z"
+  "lastReset": "2025-02-24T05:54:55.592Z"
 }
