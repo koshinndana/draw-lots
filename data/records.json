@@ -1,23 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-02-21T10:39:31.705Z",
+      "time": "2025-02-24T05:22:54.147Z",
       "group": "art",
-      "member": "袁博",
-      "operator": "kyoko"
-    },
-    {
-      "time": "2025-02-21T10:39:33.832Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "kyoko"
-    },
-    {
-      "time": "2025-02-21T10:39:36.123Z",
-      "group": "others",
-      "member": "姗姗",
-      "operator": "kyoko"
+      "member": "辣椒",
+      "operator": "koyko"
     }
   ],
-  "lastReset": "2025-02-21T10:39:36.123Z"
+  "lastReset": "2025-02-24T05:22:54.147Z"
 }
