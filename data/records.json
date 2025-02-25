@@ -47,7 +47,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "11"
+    },
+    {
+      "time": "2025-02-25T10:31:47.019Z",
+      "group": "art",
+      "member": "Yoyo",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-02-25T10:31:42.300Z"
+  "lastReset": "2025-02-25T10:31:47.019Z"
 }
