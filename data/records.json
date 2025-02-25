@@ -35,7 +35,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "张珈宁"
+    },
+    {
+      "time": "2025-02-25T10:31:35.057Z",
+      "group": "art",
+      "member": "辣椒",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-02-24T14:24:13.204Z"
+  "lastReset": "2025-02-25T10:31:35.057Z"
 }
