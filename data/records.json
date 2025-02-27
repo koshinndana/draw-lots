@@ -185,7 +185,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-02-27T07:01:53.051Z",
+      "group": "eng",
+      "member": "奕昂",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-02-27T07:01:49.240Z"
+  "lastReset": "2025-02-27T07:01:53.051Z"
 }
