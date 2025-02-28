@@ -239,7 +239,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "kyoko"
+    },
+    {
+      "time": "2025-02-28T10:31:38.706Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "kyoko"
     }
   ],
-  "lastReset": "2025-02-28T10:31:34.520Z"
+  "lastReset": "2025-02-28T10:31:38.706Z"
 }
