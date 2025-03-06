@@ -59,7 +59,13 @@
       "group": "others",
       "member": "姗姗",
       "operator": "cc"
+    },
+    {
+      "time": "2025-03-06T08:14:46.057Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-03-06T03:04:44.794Z"
+  "lastReset": "2025-03-06T08:14:46.057Z"
 }
