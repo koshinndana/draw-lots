@@ -1,89 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-03-04T12:17:01.829Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:14.320Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:16.900Z",
-      "group": "others",
-      "member": "姗姗",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:31.414Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:35.086Z",
-      "group": "others",
-      "member": "菀泠",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:37.263Z",
-      "group": "others",
-      "member": "菀泠",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-04T12:17:39.790Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "张珈宁"
-    },
-    {
-      "time": "2025-03-06T03:04:36.002Z",
+      "time": "2025-03-12T10:43:07.510Z",
       "group": "art",
       "member": "袁博",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-03-06T03:04:42.491Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-03-06T03:04:44.794Z",
-      "group": "others",
-      "member": "姗姗",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-03-06T08:14:46.057Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-03-06T09:47:03.783Z",
-      "group": "art",
-      "member": "Yoyo",
-      "operator": "曜曜"
-    },
-    {
-      "time": "2025-03-06T09:47:07.805Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "曜曜"
-    },
-    {
-      "time": "2025-03-06T09:47:10.625Z",
-      "group": "others",
-      "member": "菀泠",
-      "operator": "曜曜"
+      "operator": "kyoko"
     }
   ],
-  "lastReset": "2025-03-06T09:47:10.625Z"
+  "lastReset": "2025-03-12T10:43:07.510Z"
 }
