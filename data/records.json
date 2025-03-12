@@ -137,7 +137,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "头"
+    },
+    {
+      "time": "2025-03-12T10:45:03.917Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "头"
     }
   ],
-  "lastReset": "2025-03-12T10:45:00.066Z"
+  "lastReset": "2025-03-12T10:45:03.917Z"
 }
