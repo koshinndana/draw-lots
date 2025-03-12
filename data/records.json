@@ -29,7 +29,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-03-12T10:43:50.676Z",
+      "group": "others",
+      "member": "菀泠",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-03-12T10:43:39.084Z"
+  "lastReset": "2025-03-12T10:43:50.676Z"
 }
