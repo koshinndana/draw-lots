@@ -47,7 +47,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-03-12T10:44:03.330Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-03-12T10:43:56.221Z"
+  "lastReset": "2025-03-12T10:44:03.330Z"
 }
