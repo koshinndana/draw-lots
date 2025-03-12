@@ -41,7 +41,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "Kyoko"
+    },
+    {
+      "time": "2025-03-12T10:43:56.221Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "Kyoko"
     }
   ],
-  "lastReset": "2025-03-12T10:43:53.959Z"
+  "lastReset": "2025-03-12T10:43:56.221Z"
 }
