@@ -83,7 +83,13 @@
       "group": "eng",
       "member": "王科",
       "operator": "cc"
+    },
+    {
+      "time": "2025-03-20T11:24:37.318Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-03-20T11:23:58.053Z"
+  "lastReset": "2025-03-20T11:24:37.318Z"
 }
