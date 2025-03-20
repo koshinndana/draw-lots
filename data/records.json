@@ -59,7 +59,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "cc"
+    },
+    {
+      "time": "2025-03-20T11:23:51.510Z",
+      "group": "eng",
+      "member": "王科",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-03-20T11:23:49.068Z"
+  "lastReset": "2025-03-20T11:23:51.510Z"
 }
