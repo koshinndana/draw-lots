@@ -71,7 +71,13 @@
       "group": "others",
       "member": "鼠标",
       "operator": "cc"
+    },
+    {
+      "time": "2025-03-20T11:23:55.967Z",
+      "group": "eng",
+      "member": "王科",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-03-20T11:23:53.683Z"
+  "lastReset": "2025-03-20T11:23:55.967Z"
 }
