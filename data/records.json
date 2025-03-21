@@ -1,4 +1,11 @@
 {
-  "records": [],
-  "lastReset": "2025-03-21T07:18:20.587Z"
+  "records": [
+    {
+      "time": "2025-03-21T07:18:26.843Z",
+      "group": "art",
+      "member": "文皓",
+      "operator": "11"
+    }
+  ],
+  "lastReset": "2025-03-21T07:18:26.843Z"
 }
