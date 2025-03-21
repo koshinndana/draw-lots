@@ -65,7 +65,13 @@
       "group": "eng",
       "member": "奕昂",
       "operator": "11"
+    },
+    {
+      "time": "2025-03-21T07:18:51.023Z",
+      "group": "art",
+      "member": "Yoyo",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-03-21T07:18:48.805Z"
+  "lastReset": "2025-03-21T07:18:51.023Z"
 }
