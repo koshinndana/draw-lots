@@ -1,35 +1,4 @@
 {
-  "records": [
-    {
-      "time": "2025-03-21T07:01:39.941Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "11"
-    },
-    {
-      "time": "2025-03-21T07:01:42.967Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "11"
-    },
-    {
-      "time": "2025-03-21T07:01:46.180Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "11"
-    },
-    {
-      "time": "2025-03-21T07:01:53.725Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "11"
-    },
-    {
-      "time": "2025-03-21T07:01:57.590Z",
-      "group": "eng",
-      "member": "王科",
-      "operator": "11"
-    }
-  ],
-  "lastReset": "2025-03-21T07:01:57.590Z"
+  "records": [],
+  "lastReset": "2025-03-21T07:18:20.587Z"
 }
