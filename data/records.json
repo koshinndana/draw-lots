@@ -5,7 +5,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "11"
+    },
+    {
+      "time": "2025-03-21T07:01:42.967Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-03-21T07:01:39.941Z"
+  "lastReset": "2025-03-21T07:01:42.967Z"
 }
