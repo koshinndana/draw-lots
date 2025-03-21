@@ -101,7 +101,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "yaoyao"
+    },
+    {
+      "time": "2025-03-21T06:52:59.647Z",
+      "group": "others",
+      "member": "姗姗",
+      "operator": "yaoyao"
     }
   ],
-  "lastReset": "2025-03-21T06:52:57.260Z"
+  "lastReset": "2025-03-21T06:52:59.647Z"
 }
