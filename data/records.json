@@ -35,7 +35,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "11"
+    },
+    {
+      "time": "2025-03-21T07:18:39.504Z",
+      "group": "art",
+      "member": "辣椒",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-03-21T07:18:37.870Z"
+  "lastReset": "2025-03-21T07:18:39.504Z"
 }
