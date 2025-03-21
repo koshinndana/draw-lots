@@ -11,7 +11,13 @@
       "group": "eng",
       "member": "恐龙",
       "operator": "11"
+    },
+    {
+      "time": "2025-03-21T07:18:31.468Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "11"
     }
   ],
-  "lastReset": "2025-03-21T07:18:29.338Z"
+  "lastReset": "2025-03-21T07:18:31.468Z"
 }
