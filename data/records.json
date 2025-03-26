@@ -11,7 +11,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:34.528Z",
+      "group": "others",
+      "member": "菀泠",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:32.878Z"
+  "lastReset": "2025-03-26T02:46:34.528Z"
 }
