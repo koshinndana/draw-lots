@@ -137,7 +137,7 @@ function checkUser() {
 const groups = {
     art: ['Yoyo', '辣椒', '袁博', '文皓'],
     eng: ['志勇', '恐龙', '奕昂', 'Eric'],
-    others: ['鼠标', '菀泠', '玉洁']
+    others: ['鼠标', '菀泠', '玉洁', '紫薇']
 };
 
 // 抽签函数
