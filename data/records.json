@@ -65,7 +65,13 @@
       "group": "eng",
       "member": "恐龙",
       "operator": "cc"
+    },
+    {
+      "time": "2025-03-26T11:38:29.008Z",
+      "group": "others",
+      "member": "紫薇",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-03-26T11:38:26.741Z"
+  "lastReset": "2025-03-26T11:38:29.008Z"
 }
