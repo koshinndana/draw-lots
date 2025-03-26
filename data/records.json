@@ -89,7 +89,13 @@
       "group": "others",
       "member": "鼠标",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:47:02.656Z",
+      "group": "others",
+      "member": "玉洁",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:47:00.909Z"
+  "lastReset": "2025-03-26T02:47:02.656Z"
 }
