@@ -41,7 +41,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:46.762Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:44.478Z"
+  "lastReset": "2025-03-26T02:46:46.762Z"
 }
