@@ -59,7 +59,13 @@
       "group": "others",
       "member": "菀泠",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:53.512Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:51.251Z"
+  "lastReset": "2025-03-26T02:46:53.512Z"
 }
