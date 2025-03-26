@@ -5,7 +5,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:32.878Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:30.445Z"
+  "lastReset": "2025-03-26T02:46:32.878Z"
 }
