@@ -29,7 +29,13 @@
       "group": "eng",
       "member": "志勇",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:41.998Z",
+      "group": "art",
+      "member": "袁博",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:39.864Z"
+  "lastReset": "2025-03-26T02:46:41.998Z"
 }
