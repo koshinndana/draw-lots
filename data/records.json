@@ -1,4 +1,11 @@
 {
-  "records": [],
-  "lastReset": "2025-03-26T02:51:39.719Z"
+  "records": [
+    {
+      "time": "2025-03-26T02:51:48.033Z",
+      "group": "others",
+      "member": "玉洁",
+      "operator": "test"
+    }
+  ],
+  "lastReset": "2025-03-26T02:51:48.033Z"
 }
