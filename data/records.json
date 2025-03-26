@@ -5,7 +5,13 @@
       "group": "others",
       "member": "玉洁",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:51:51.342Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:51:48.033Z"
+  "lastReset": "2025-03-26T02:51:51.342Z"
 }
