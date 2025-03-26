@@ -47,7 +47,13 @@
       "group": "eng",
       "member": "志勇",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:48.929Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:46.762Z"
+  "lastReset": "2025-03-26T02:46:48.929Z"
 }
