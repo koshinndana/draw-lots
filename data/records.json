@@ -35,7 +35,13 @@
       "group": "art",
       "member": "袁博",
       "operator": "test"
+    },
+    {
+      "time": "2025-03-26T02:46:44.478Z",
+      "group": "art",
+      "member": "文皓",
+      "operator": "test"
     }
   ],
-  "lastReset": "2025-03-26T02:46:41.998Z"
+  "lastReset": "2025-03-26T02:46:44.478Z"
 }
