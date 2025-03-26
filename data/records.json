@@ -11,7 +11,13 @@
       "group": "others",
       "member": "紫薇",
       "operator": "2"
+    },
+    {
+      "time": "2025-03-26T03:08:44.298Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "2"
     }
   ],
-  "lastReset": "2025-03-26T03:08:41.771Z"
+  "lastReset": "2025-03-26T03:08:44.298Z"
 }
