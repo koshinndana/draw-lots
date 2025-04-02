@@ -23,7 +23,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "kk"
+    },
+    {
+      "time": "2025-04-02T01:02:46.018Z",
+      "group": "others",
+      "member": "紫薇",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-04-02T01:02:41.735Z"
+  "lastReset": "2025-04-02T01:02:46.018Z"
 }
