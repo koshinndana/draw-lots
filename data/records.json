@@ -17,7 +17,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "kk"
+    },
+    {
+      "time": "2025-04-02T01:02:41.735Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-04-02T01:02:37.161Z"
+  "lastReset": "2025-04-02T01:02:41.735Z"
 }
