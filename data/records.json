@@ -71,7 +71,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "zjn"
+    },
+    {
+      "time": "2025-04-03T06:52:25.189Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "zjn"
     }
   ],
-  "lastReset": "2025-04-03T06:52:09.527Z"
+  "lastReset": "2025-04-03T06:52:25.189Z"
 }
