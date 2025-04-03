@@ -35,7 +35,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "cc"
+    },
+    {
+      "time": "2025-04-03T02:34:57.231Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-04-03T02:34:54.965Z"
+  "lastReset": "2025-04-03T02:34:57.231Z"
 }
