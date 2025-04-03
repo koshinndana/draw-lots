@@ -53,7 +53,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "cc"
+    },
+    {
+      "time": "2025-04-03T02:37:05.604Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-04-03T02:36:38.575Z"
+  "lastReset": "2025-04-03T02:37:05.604Z"
 }
