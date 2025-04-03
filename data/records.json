@@ -41,7 +41,13 @@
       "group": "eng",
       "member": "志勇",
       "operator": "cc"
+    },
+    {
+      "time": "2025-04-03T02:34:59.900Z",
+      "group": "others",
+      "member": "紫薇",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-04-03T02:34:57.231Z"
+  "lastReset": "2025-04-03T02:34:59.900Z"
 }
