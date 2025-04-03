@@ -47,7 +47,13 @@
       "group": "others",
       "member": "紫薇",
       "operator": "cc"
+    },
+    {
+      "time": "2025-04-03T02:36:38.575Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-04-03T02:34:59.900Z"
+  "lastReset": "2025-04-03T02:36:38.575Z"
 }
