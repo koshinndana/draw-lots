@@ -77,7 +77,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "zjn"
+    },
+    {
+      "time": "2025-04-03T06:52:32.307Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "zjn"
     }
   ],
-  "lastReset": "2025-04-03T06:52:25.189Z"
+  "lastReset": "2025-04-03T06:52:32.307Z"
 }
