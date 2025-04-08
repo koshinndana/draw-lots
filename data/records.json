@@ -1,113 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-04-02T01:02:15.338Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-02T01:02:16.764Z",
-      "group": "art",
-      "member": "辣椒",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-02T01:02:37.161Z",
+      "time": "2025-04-08T11:16:26.534Z",
       "group": "art",
       "member": "文皓",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-02T01:02:41.735Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-02T01:02:46.018Z",
-      "group": "others",
-      "member": "紫薇",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-03T02:34:54.965Z",
-      "group": "art",
-      "member": "Yoyo",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-04-03T02:34:57.231Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-04-03T02:34:59.900Z",
-      "group": "others",
-      "member": "紫薇",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-04-03T02:36:38.575Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-04-03T02:37:05.604Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "cc"
-    },
-    {
-      "time": "2025-04-03T06:52:06.840Z",
-      "group": "art",
-      "member": "辣椒",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:52:09.527Z",
-      "group": "art",
-      "member": "Yoyo",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:52:25.189Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:52:32.307Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:52:53.251Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:52:56.379Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:53:08.443Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-04-03T06:53:11.789Z",
-      "group": "eng",
-      "member": "恐龙",
-      "operator": "zjn"
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-04-03T06:53:11.789Z"
+  "lastReset": "2025-04-08T11:16:26.534Z"
 }
