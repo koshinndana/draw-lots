@@ -59,7 +59,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-04-08T11:25:44.436Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-04-08T11:25:40.938Z"
+  "lastReset": "2025-04-08T11:25:44.436Z"
 }
