@@ -1,89 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-04-08T11:16:26.534Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:16:28.736Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:16:31.051Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:16:45.805Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:16:48.659Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:16:52.427Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:23:01.085Z",
+      "time": "2025-04-15T04:36:08.535Z",
       "group": "art",
       "member": "袁博",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:24:51.066Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:24:53.374Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:25:40.938Z",
-      "group": "art",
-      "member": "Yoyo",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:25:44.436Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:25:57.233Z",
-      "group": "art",
-      "member": "辣椒",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:25:59.391Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-08T11:26:01.049Z",
-      "group": "others",
-      "member": "菀泠",
-      "operator": "koshinn"
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-04-08T11:26:01.049Z"
+  "lastReset": "2025-04-15T04:36:08.535Z"
 }
