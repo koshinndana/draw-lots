@@ -29,7 +29,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-04-17T11:08:28.343Z",
+      "group": "eng",
+      "member": "恐龙",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-04-17T11:08:25.811Z"
+  "lastReset": "2025-04-17T11:08:28.343Z"
 }
