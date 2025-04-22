@@ -65,7 +65,13 @@
       "group": "eng",
       "member": "奕昂",
       "operator": "cc"
+    },
+    {
+      "time": "2025-04-22T14:27:17.658Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "cc"
     }
   ],
-  "lastReset": "2025-04-22T14:27:15.830Z"
+  "lastReset": "2025-04-22T14:27:17.658Z"
 }
