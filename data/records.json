@@ -1,4 +1,11 @@
 {
-  "records": [],
-  "lastReset": "2025-04-24T03:21:13.365Z"
+  "records": [
+    {
+      "time": "2025-04-24T03:21:19.107Z",
+      "group": "art",
+      "member": "袁博",
+      "operator": "12"
+    }
+  ],
+  "lastReset": "2025-04-24T03:21:19.107Z"
 }
