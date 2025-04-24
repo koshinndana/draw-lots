@@ -251,7 +251,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "12"
+    },
+    {
+      "time": "2025-04-24T03:21:04.883Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "12"
     }
   ],
-  "lastReset": "2025-04-24T03:21:03.377Z"
+  "lastReset": "2025-04-24T03:21:04.883Z"
 }
