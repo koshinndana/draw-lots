@@ -89,7 +89,13 @@
       "group": "eng",
       "member": "奕昂",
       "operator": "12"
+    },
+    {
+      "time": "2025-04-24T03:20:18.736Z",
+      "group": "others",
+      "member": "紫薇",
+      "operator": "12"
     }
   ],
-  "lastReset": "2025-04-24T03:20:16.371Z"
+  "lastReset": "2025-04-24T03:20:18.736Z"
 }
