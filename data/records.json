@@ -113,7 +113,13 @@
       "group": "eng",
       "member": "恐龙",
       "operator": "12"
+    },
+    {
+      "time": "2025-04-24T03:20:26.763Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "12"
     }
   ],
-  "lastReset": "2025-04-24T03:20:24.996Z"
+  "lastReset": "2025-04-24T03:20:26.763Z"
 }
