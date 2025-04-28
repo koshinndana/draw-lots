@@ -1,107 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-04-24T03:21:19.107Z",
+      "time": "2025-04-28T02:19:17.824Z",
       "group": "art",
-      "member": "袁博",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:20.779Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:22.474Z",
-      "group": "eng",
-      "member": "恐龙",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:24.175Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:25.664Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:27.123Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:28.592Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:30.264Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:31.768Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:33.271Z",
-      "group": "eng",
-      "member": "恐龙",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:34.765Z",
-      "group": "eng",
-      "member": "恐龙",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:36.211Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:37.670Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:39.239Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:40.814Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:42.318Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "12"
-    },
-    {
-      "time": "2025-04-24T03:21:43.720Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "12"
+      "member": "辣椒",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-04-24T03:21:43.720Z"
+  "lastReset": "2025-04-28T02:19:17.824Z"
 }
