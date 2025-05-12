@@ -11,7 +11,13 @@
       "group": "eng",
       "member": "志勇",
       "operator": "kk"
+    },
+    {
+      "time": "2025-05-12T01:20:25.565Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-05-12T01:20:23.983Z"
+  "lastReset": "2025-05-12T01:20:25.565Z"
 }
