@@ -1,41 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-04-28T02:19:17.824Z",
+      "time": "2025-05-12T01:20:21.517Z",
       "group": "art",
-      "member": "辣椒",
+      "member": "袁博",
       "operator": "kk"
-    },
-    {
-      "time": "2025-04-28T02:19:30.225Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-28T02:19:34.529Z",
-      "group": "others",
-      "member": "玉洁",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-04-28T10:45:42.656Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-28T10:45:45.120Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-04-28T10:45:48.406Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-04-28T10:45:48.406Z"
+  "lastReset": "2025-05-12T01:20:21.517Z"
 }
