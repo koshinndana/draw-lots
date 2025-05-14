@@ -41,7 +41,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "13"
+    },
+    {
+      "time": "2025-05-14T02:32:55.873Z",
+      "group": "others",
+      "member": "玉洁",
+      "operator": "13"
     }
   ],
-  "lastReset": "2025-05-14T02:32:53.494Z"
+  "lastReset": "2025-05-14T02:32:55.873Z"
 }
