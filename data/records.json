@@ -59,7 +59,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-05-19T12:57:56.789Z",
+      "group": "others",
+      "member": "允奎",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-05-19T12:57:53.962Z"
+  "lastReset": "2025-05-19T12:57:56.789Z"
 }
