@@ -1,95 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-05-19T01:23:25.449Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-05-19T01:23:27.582Z",
-      "group": "eng",
-      "member": "奕昂",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-05-19T01:23:29.425Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-05-19T01:30:12.075Z",
-      "group": "eng",
-      "member": "梦辰",
-      "operator": "kk"
-    },
-    {
-      "time": "2025-05-19T12:57:35.104Z",
-      "group": "others",
-      "member": "鼠标",
-      "operator": "13"
-    },
-    {
-      "time": "2025-05-19T12:57:37.229Z",
-      "group": "others",
-      "member": "允奎",
-      "operator": "13"
-    },
-    {
-      "time": "2025-05-19T12:57:39.230Z",
-      "group": "others",
-      "member": "菀泠",
-      "operator": "13"
-    },
-    {
-      "time": "2025-05-19T12:57:40.790Z",
-      "group": "others",
-      "member": "逸飞",
-      "operator": "13"
-    },
-    {
-      "time": "2025-05-19T12:57:51.582Z",
+      "time": "2025-05-26T07:22:46.261Z",
       "group": "art",
       "member": "Yoyo",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-05-19T12:57:53.962Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-05-19T12:57:56.789Z",
-      "group": "others",
-      "member": "允奎",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-05-21T11:54:04.060Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "koshinn"
-    },
-    {
-      "time": "2025-05-22T02:12:28.850Z",
-      "group": "eng",
-      "member": "Eric",
-      "operator": "大头"
-    },
-    {
-      "time": "2025-05-22T02:12:35.023Z",
-      "group": "art",
-      "member": "袁博",
-      "operator": "大头"
-    },
-    {
-      "time": "2025-05-22T02:12:41.555Z",
-      "group": "others",
-      "member": "逸飞",
       "operator": "大头"
     }
   ],
-  "lastReset": "2025-05-22T02:12:41.555Z"
+  "lastReset": "2025-05-26T07:22:46.261Z"
 }
