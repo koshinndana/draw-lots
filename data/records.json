@@ -35,7 +35,13 @@
       "group": "art",
       "member": "文皓",
       "operator": "koshinn"
+    },
+    {
+      "time": "2025-06-03T08:07:42.750Z",
+      "group": "eng",
+      "member": "恐龙",
+      "operator": "koshinn"
     }
   ],
-  "lastReset": "2025-06-03T08:07:38.782Z"
+  "lastReset": "2025-06-03T08:07:42.750Z"
 }
