@@ -95,7 +95,13 @@
       "group": "eng",
       "member": "Eric",
       "operator": "kk"
+    },
+    {
+      "time": "2025-06-04T14:14:29.369Z",
+      "group": "others",
+      "member": "菀泠",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-06-04T14:14:24.667Z"
+  "lastReset": "2025-06-04T14:14:29.369Z"
 }
