@@ -119,7 +119,13 @@
       "group": "art",
       "member": "袁博",
       "operator": "kk"
+    },
+    {
+      "time": "2025-06-04T14:14:55.910Z",
+      "group": "others",
+      "member": "鼠标",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-06-04T14:14:53.935Z"
+  "lastReset": "2025-06-04T14:14:55.910Z"
 }
