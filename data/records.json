@@ -113,7 +113,13 @@
       "group": "eng",
       "member": "梦辰",
       "operator": "kk"
+    },
+    {
+      "time": "2025-06-04T14:14:53.935Z",
+      "group": "art",
+      "member": "袁博",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-06-04T14:14:51.404Z"
+  "lastReset": "2025-06-04T14:14:53.935Z"
 }
