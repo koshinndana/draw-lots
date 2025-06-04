@@ -89,7 +89,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "kk"
+    },
+    {
+      "time": "2025-06-04T14:14:24.667Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-06-04T14:14:22.487Z"
+  "lastReset": "2025-06-04T14:14:24.667Z"
 }
