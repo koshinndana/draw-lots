@@ -47,7 +47,13 @@
       "group": "art",
       "member": "Yoyo",
       "operator": "大头"
+    },
+    {
+      "time": "2025-06-10T08:38:39.410Z",
+      "group": "eng",
+      "member": "志勇",
+      "operator": "大头"
     }
   ],
-  "lastReset": "2025-06-10T08:38:34.338Z"
+  "lastReset": "2025-06-10T08:38:39.410Z"
 }
