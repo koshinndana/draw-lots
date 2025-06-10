@@ -107,7 +107,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "黄雪婷"
+    },
+    {
+      "time": "2025-06-10T08:55:30.972Z",
+      "group": "eng",
+      "member": "Eric",
+      "operator": "黄雪婷"
     }
   ],
-  "lastReset": "2025-06-10T08:55:26.466Z"
+  "lastReset": "2025-06-10T08:55:30.972Z"
 }
