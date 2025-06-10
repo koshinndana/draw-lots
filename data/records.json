@@ -65,7 +65,13 @@
       "group": "art",
       "member": "辣椒",
       "operator": "大头"
+    },
+    {
+      "time": "2025-06-10T08:39:36.338Z",
+      "group": "art",
+      "member": "Yoyo",
+      "operator": "大头"
     }
   ],
-  "lastReset": "2025-06-10T08:39:34.930Z"
+  "lastReset": "2025-06-10T08:39:36.338Z"
 }
