@@ -1,47 +1,11 @@
 {
   "records": [
     {
-      "time": "2025-06-23T13:48:16.568Z",
+      "time": "2025-07-14T03:17:18.836Z",
       "group": "art",
       "member": "文皓",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-06-23T13:48:19.112Z",
-      "group": "eng",
-      "member": "梦辰",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-06-23T13:48:21.222Z",
-      "group": "others",
-      "member": "紫薇",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-06-23T13:48:25.086Z",
-      "group": "eng",
-      "member": "梦辰",
-      "operator": "zjn"
-    },
-    {
-      "time": "2025-06-26T02:23:16.914Z",
-      "group": "art",
-      "member": "文皓",
-      "operator": "黄"
-    },
-    {
-      "time": "2025-06-26T02:23:19.281Z",
-      "group": "eng",
-      "member": "志勇",
-      "operator": "黄"
-    },
-    {
-      "time": "2025-06-26T02:23:20.724Z",
-      "group": "others",
-      "member": "逸飞",
-      "operator": "黄"
+      "operator": "kk"
     }
   ],
-  "lastReset": "2025-06-26T02:23:20.724Z"
+  "lastReset": "2025-07-14T03:17:18.836Z"
 }
